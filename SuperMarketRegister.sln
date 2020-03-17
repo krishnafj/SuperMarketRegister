@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1062
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperMarketRegister", "SuperMarketRegister\SuperMarketRegister.csproj", "{1E26EA78-CF1C-4FD9-A15B-82D66C93A0DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperMarketRegister.Tests", "SuperMarketRegister.Tests\SuperMarketRegister.Tests.csproj", "{17C74B64-A383-4B56-83DE-96EEEAF1149C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E26EA78-CF1C-4FD9-A15B-82D66C93A0DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E26EA78-CF1C-4FD9-A15B-82D66C93A0DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E26EA78-CF1C-4FD9-A15B-82D66C93A0DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E26EA78-CF1C-4FD9-A15B-82D66C93A0DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17C74B64-A383-4B56-83DE-96EEEAF1149C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17C74B64-A383-4B56-83DE-96EEEAF1149C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17C74B64-A383-4B56-83DE-96EEEAF1149C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17C74B64-A383-4B56-83DE-96EEEAF1149C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D1BA4EF-6F8C-464F-8316-04AA6C65805D}
+	EndGlobalSection
+EndGlobal
